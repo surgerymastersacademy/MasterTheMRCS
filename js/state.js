@@ -1,6 +1,6 @@
 // js/state.js (FINAL CORRECTED VERSION FOR MULTI-PLANNER)
 
-export const API_URL = 'https://script.google.com/macros/s/AKfycbzx8gRgbYZw8Rrg348q2dlsRd7yQ9IXUNUPBDUf-Q5Wb9LntLuKY-ozmnbZOOuQsDU_3w/exec'; // <-- Don't forget to put your NEW URL here!
+export const API_URL = 'https://script.google.com/macros/s/AKfycbww2JXztNDFh6vqVC7fX-Zsu-wpfDcR30WP5QwKd9r1wSOG_5qLJWlO18PXKkz8MbZbRg/exec'; // <-- Don't forget to put your NEW URL here!
 
 export const SIMULATION_Q_COUNT = 100;
 export const SIMULATION_TOTAL_TIME_MINUTES = 120;
@@ -77,3 +77,4 @@ export const appState = {
         title: ''
     },
 };
+
