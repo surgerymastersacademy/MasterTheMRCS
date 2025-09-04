@@ -1,7 +1,7 @@
 // js/admin.js (FINAL VERSION - With Announcements & Add User)
 
 // NOTE: This should be the same URL from your state.js file
-const API_URL = 'https://script.google.com/macros/s/AKfycbwNkMdB4tp7yAY7VOIAnV4MpC6cwv1GzACw-WjMHzcfEBwQs60KGR5XhjIITjP_hQOD/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbww2JXztNDFh6vqVC7fX-Zsu-wpfDcR30WP5QwKd9r1wSOG_5qLJWlO18PXKkz8MbZbRg/exec';
 
 // --- DOM ELEMENTS ---
 const dom = {
